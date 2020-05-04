@@ -1,0 +1,32 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+! Blocking ads in Anime Sugoi website
+||3.bp.blogspot.com/--SAa7wHqCSk/XTx97Vf8FGI/AAAAAAAAB80/hTR4b2Ni7xYSAY3OxWr8SIwEzhE0ddFDACLcBGAs/s1600/1.gif
+||3.bp.blogspot.com/-rKv7byrRZFw/Xg3KyJ2eFyI/AAAAAAAACOM/H4jQsdLxS2EPGuTixdqF9VPC-LEPaWQiACLcBGAsYHQ/s1600/1.gif
+||2.bp.blogspot.com/-bDklbWcCBb4/XMAjxuac_AI/AAAAAAAABvM/mM28y5_2ZQcI74BzL8ZoN1rzw-DW04X2QCLcBGAs/s1600/1.gif
+||2.bp.blogspot.com/-CvB-UTHgh7w/XoaKqGLJwRI/AAAAAAAACcQ/PXx5w3b0EH44-L6CHx521HFloWXS0wVEwCLcBGAsYHQ/s1600/5.gif
+||4.bp.blogspot.com/-Y4PaAXT6K5g/Xohz-xSIemI/AAAAAAAACdo/JLY1imOm0Xk4mmIYM0g39QGaEfuN09gPgCLcBGAsYHQ/s1600/1.gif
+||3.bp.blogspot.com/-gLYDJEWOLgI/XoaKoqR6PyI/AAAAAAAACcI/6ki30_y8rFIIUbERmxdP9iPA3vNk-ANTgCLcBGAsYHQ/s1600/3.gif
+||2.bp.blogspot.com/-Br5Eg_Js5Gs/XpwyHvsEcoI/AAAAAAAACfY/bWuYCGrTcZ0NuW9a7fNrvKfSzYN3IrVtACLcBGAsYHQ/s1600/1.gif
+||1.bp.blogspot.com/-pfV80NH3q-E/XlLTo6gbpgI/AAAAAAAACV4/s5Qtgfbatj0aUuWGUD7ZinJU00BpTXN9gCLcBGAsYHQ/s1600/1.gif
+||4.bp.blogspot.com/-Bs_9YyMtCXo/XoaKothdR5I/AAAAAAAACcA/ZSYheVdbg0cxyYe_EUGX-heXxKDCES8qwCLcBGAsYHQ/s1600/2.gif
+||2.bp.blogspot.com/-Niug1YJZw8A/XoSZl2qHx6I/AAAAAAAACa4/crQqb49p5PgliAs2IHFTVhvykCoF8UkfgCLcBGAsYHQ/s1600/1.gif
+||1.bp.blogspot.com/-ccXypXjMVik/XosmUFONUrI/AAAAAAAACeI/PUimhExrcXURNP7McncERY3L1CDNMPQcACLcBGAsYHQ/s1600/1.gif
+||3.bp.blogspot.com/-4YM_jlyU5dI/XoZCxrFXCHI/AAAAAAAACbg/JsEYhZ63HbIL24Ikhy6ZEx5Xe24xNtDfQCLcBGAsYHQ/s1600/1.gif
+||2.bp.blogspot.com/-1byLqTx4ryw/Xp7Oy__bWLI/AAAAAAAACf4/fOHozHREzSsWZ6pqwXtc9GQ5bVqOe_KDQCLcBGAsYHQ/s1600/1.gif
+||2.bp.blogspot.com/-qbsOsr9reSg/W7a1mc5oqMI/AAAAAAAABRc/E0xnR80SDAMsdKZqVK9Ztty7iJLCU0dmACLcBGAs/s1600/5.gif
+||1.bp.blogspot.com/-V9_jSFSU2xE/XoaKqX4-YbI/AAAAAAAACcU/hG5yk-qJUkUpROtMW_n1rl7SHVsfXIz_gCLcBGAsYHQ/s1600/6.gif
+||1.bp.blogspot.com/-zMj5wBKhruQ/XodC77kblWI/AAAAAAAACdE/5RJuKj_8lA0SFJrS6Kpjt1CN3PHrawYgQCLcBGAsYHQ/s1600/1.gif
+||3.bp.blogspot.com/-brDtmevUwrU/XoZCxnTEwiI/AAAAAAAACbk/bS1S00tR3SM3DOzOz6uuqyPl4V7I7PS7QCLcBGAsYHQ/s1600/2.gif
+||4.bp.blogspot.com/-htC09fi-a20/XZI7slLHr2I/AAAAAAAACC4/G5rJXqDpscQ8Msc3i6hU-hd3Q_phUNKkwCLcBGAsYHQ/s1600/2.gif
+||2.bp.blogspot.com/-Gr95LCgmAeE/XqHdwHBGK9I/AAAAAAAACgY/1z8vuvoFVsUFuuAqlTSjAk7isvASOH9jACLcBGAsYHQ/s1600/1.gif
+||4.bp.blogspot.com/-SpT2dTjrMLk/XpCXQVeRelI/AAAAAAAACe0/yeCvFHDv_OUUNZtjcI4g8Ga6Fv_feHuZQCLcBGAsYHQ/s1600/1.gif
+||4.bp.blogspot.com/-U3CUDiZ4Jk0/XoaKptWmK4I/AAAAAAAACcM/80J4kvyVmhsiuKnssJL3-cBBSqFZ8VfFgCLcBGAsYHQ/s1600/4.gif
+||2.bp.blogspot.com/-FrtgheF4EpM/XoaKoo8oAwI/AAAAAAAACcE/yKHCdIzV1aYEZ-vvZJco-TUzBB7g7pUdACLcBGAsYHQ/s1600/1.gif
+||3.bp.blogspot.com/-2b-LEVbyfwo/XjcMGYC3yDI/AAAAAAAACS0/zKRrej7BlrwUOW-gdGOlBVu6sDxxq0kfQCLcBGAsYHQ/s1600/1.gif
+||3.bp.blogspot.com/-_VoigG2G1qw/XPMJRrrdPOI/AAAAAAAAB2Q/0A925xsERDo4BAUwSkSx9lkZQxXltPDPwCLcBGAs/s1600/c.gif
